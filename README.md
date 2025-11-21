@@ -4,8 +4,8 @@
 
 I am Beerum Bhuvan, a first-year computer science student from [Polaris School of Technology](https://polariscampus.com/). I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Beerumbhuvan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhuvan-beerum-5897b036b/)](https://www.linkedin.com/in/bhuvan-beerum-5897b036b/)
+[![Gmail Badge](https://img.shields.io/badge/-atrancendentbeing@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:atrancendentbeing@gmail.com)](mailto:atrancendentbeing@gmail.com)
 
 ## ⚡ Technologies
 
@@ -23,7 +23,7 @@ I am Beerum Bhuvan, a first-year computer science student from [Polaris School o
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
+
 <!--
 **Bbn08/Bbn08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
