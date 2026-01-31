@@ -29,7 +29,7 @@
 | :--- | :--- |
 | **Languages** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,py,go&theme=dark" /></a> |
 | **Frontend** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,html,css,bootstrap&theme=dark" /></a> |
-| **Data Science** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pytorch,numpy,pandas&theme=dark" /> </a> |
+| **Data Science** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pytorch,numpy,pandas&theme=dark" /> </a><br> ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) |
 | **Tools & Editors** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,docker,gcp,git,vscode,neovim,figma&theme=dark" /></a> |
 
 ---
