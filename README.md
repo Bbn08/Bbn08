@@ -2,7 +2,7 @@
 
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am Beerum Bhuvan, a first-year computer science student from [Polaris School of Technology](https://polariscampus.com/). I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+I am Beerum Bhuvan, a first-year computer science student. I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Beerumbhuvan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhuvan-beerum-5897b036b/)](https://www.linkedin.com/in/bhuvan-beerum-5897b036b/)
 [![Gmail Badge](https://img.shields.io/badge/-atrancendentbeing@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:atrancendentbeing@gmail.com)](mailto:atrancendentbeing@gmail.com)
