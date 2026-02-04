@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hey there! I'm Bhuvan 🤙
-### First-Year Computer Science Student | Tech Enthusiast
+### Computer Science Student | Tech Enthusiast
 
 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
@@ -16,7 +16,7 @@
 
 ### 🚀 About Me
 
-- 🌱 I’m currently a first-year CS student exploring the world of software development.
+- 🌱 I’m currently a CS AL&ML student exploring the world of software development.
 - 👨‍💻 I’m an open-source advocate and love building tools that solve real problems.
 - 🔭 I’m currently looking to collaborate on interesting projects—feel free to reach out!
 - 💬 Ask me about tech, coding, or anything you're passionate about.
