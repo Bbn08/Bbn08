@@ -32,15 +32,6 @@
 | **Data Science** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pytorch,numpy,pandas&theme=dark" /> </a><br> ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) |
 | **Tools & Editors** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,docker,gcp,git,vscode,neovim,figma&theme=dark" /></a> |
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bbn08&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
-
----
 
 ### 🤝 Let's Connect!
 
