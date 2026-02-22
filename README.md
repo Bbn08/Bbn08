@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently a CS AL&ML student exploring the world of software development.
 - 👨‍💻 I’m an open-source advocate and love building tools that solve real problems.
-- 🔭 I’m currently looking to collaborate on interesting projects—feel free to reach out!
+- 🔭 I’m currently looking to collaborate on interesting projects feel free to reach out!
 - 💬 Ask me about tech, coding, or anything you're passionate about.
 
 ---
