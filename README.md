@@ -7,9 +7,6 @@
 
 *"Always open to collaborating on innovative projects and disruptive ideas."*
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bhuvan-beerum-5897b036b/)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:atrancendentbeing@gmail.com)
-
 </div>
 
 ---
@@ -25,11 +22,12 @@
 
 ### 💻 My Tech Toolbox
 
-| **Category** | **Technologies** |
+| Category | Technologies |
 | :--- | :--- |
 | **Languages** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,py,go&theme=dark" /></a> |
-| **Frontend** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,html,css,bootstrap&theme=dark" /></a> |
-| **Data Science** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pytorch,numpy,pandas&theme=dark" /> </a><br> ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) |
+| **Frontend** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,vite,html,css,bootstrap&theme=dark" /></a> |
+| **Backend & Databases** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django,fastapi,mongodb,mysql&theme=dark" /></a> |
+| **Data Science** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pytorch,sklearn,numpy,pandas&theme=dark" /> </a><br>![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) |
 | **Tools & Editors** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,docker,gcp,git,vscode,neovim,figma&theme=dark" /></a> |
 
 
