@@ -27,9 +27,10 @@
 | **Languages** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,py,go&theme=dark" /></a> |
 | **Frontend** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,vite,html,css,bootstrap&theme=dark" /></a> |
 | **Backend & Databases** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django,fastapi,mongodb,mysql&theme=dark" /></a> |
-| **Data Science** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pytorch,sklearn,numpy,pandas&theme=dark" /> </a><br>![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) |
+| **Data Science** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pytorch,sklearn,numpy,pandas,matplotlib,seaborn&theme=dark" /> </a><br>![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-%234470AD.svg?style=for-the-badge&logo=Seaborn&logoColor=white) |
 | **Tools & Editors** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,docker,gcp,git,vscode,neovim,figma&theme=dark" /></a> |
 
+---
 
 ### 🤝 Let's Connect!
 
